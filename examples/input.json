@@ -1,0 +1,4 @@
+{
+  "feedUrls": ["https://blog.apify.com/rss/", "https://hnrss.org/frontpage"],
+  "maxItemsPerFeed": 20
+}
